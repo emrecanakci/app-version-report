@@ -1,0 +1,40 @@
+{
+  "date": "2026-01-11T11:14:51.927454",
+  "results": [
+    {
+      "name": "Kubernetes",
+      "latest_version": "v1.35.0",
+      "previous_version": "v1.35.0",
+      "is_new": false,
+      "url": "https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0"
+    },
+    {
+      "name": "Zabbix",
+      "latest_version": "7.4",
+      "previous_version": "7.4",
+      "is_new": false,
+      "url": "https://www.zabbix.com/download"
+    },
+    {
+      "name": "Graylog",
+      "latest_version": "7.0.3",
+      "previous_version": "7.0.3",
+      "is_new": false,
+      "url": "https://github.com/Graylog2/graylog2-server/releases/tag/7.0.3"
+    },
+    {
+      "name": "PostgreSQL",
+      "latest_version": "18.1",
+      "previous_version": "18.1",
+      "is_new": false,
+      "url": "https://www.postgresql.org/docs/release/18.1/"
+    },
+    {
+      "name": "Jenkins",
+      "latest_version": "2.528.3",
+      "previous_version": null,
+      "is_new": null,
+      "url": "https://www.jenkins.io/changelog-stable/"
+    }
+  ]
+}

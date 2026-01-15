@@ -1,0 +1,50 @@
+{
+  "Kubernetes": {
+    "version": "v1.35.0",
+    "checked_at": "2026-01-11T12:39:46.537183"
+  },
+  "Zabbix": {
+    "version": "7.4",
+    "checked_at": "2026-01-11T12:39:46.912793"
+  },
+  "Graylog": {
+    "version": "7.0.3",
+    "checked_at": "2026-01-11T12:39:47.752451"
+  },
+  "PostgreSQL": {
+    "version": "18.1",
+    "checked_at": "2026-01-11T12:39:48.595591"
+  },
+  "Jenkins": {
+    "version": "2.528.3",
+    "checked_at": "2026-01-11T12:39:48.940897"
+  },
+  "Grafana": {
+    "version": "v12.3.1",
+    "checked_at": "2026-01-11T12:39:49.832627"
+  },
+  "Kafka": {
+    "version": "4.1.1",
+    "checked_at": "2026-01-11T12:39:50.638575"
+  },
+  "Redis": {
+    "version": "8.4.0",
+    "checked_at": "2026-01-11T12:39:51.559103"
+  },
+  "Vault": {
+    "version": "v1.21.2",
+    "checked_at": "2026-01-11T12:39:52.477307"
+  },
+  "FortiClient": {
+    "version": "7.4.5",
+    "checked_at": "2026-01-11T12:39:53.368578"
+  },
+  "Pinpoint": {
+    "version": "v3.0.4",
+    "checked_at": "2026-01-11T12:39:54.413687"
+  },
+  "MongoDB": {
+    "version": "8.2.4",
+    "checked_at": "2026-01-11T12:39:55.356931"
+  }
+}
